@@ -1,17 +1,18 @@
 # GBI6_ExamenParcial1
 Datos personales   
+Bioinformàtica G1
+Vera Figueroa Diego Alexander
 
-Diego Vera  
-
-Características del computador    
-
-16 Gb de ram
-intel corel i7
-procesador 1.64  
+Especificaciones del computador    
+Not lenovo Thinkbook 20SM001A Core I5
+4Gb de memoria Ram DDR4 - 1tb HDD
+Intel corel i5
+Procesador 1.00Ghz + Turbo 3.6Ghz  
+2Gb Tarjeta Gràfica Radeon 
 
 Programas utilizados
-  
-anaconda 3
-git bash
+Anaconda 3
+Git bash
 
 Explicación de la data utilizada
+
